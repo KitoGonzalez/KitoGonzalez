@@ -45,6 +45,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitogonzalez&show_icons=true&locale=en&layout=compact" alt="kitogonzalez" /></p>
+![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitogonzalez&show_icons=true&locale=en&count_private=true&include_all_commits=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitogonzalez&show_icons=true&locale=en" alt="kitogonzalez" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kitogonzalez&layout=compact&langs_count=8&hide=html,css,scss,handlebars,ejs)
